@@ -1,0 +1,1 @@
+../../stacks/ts-lint-stack/.claude/agents/linting-agent.md

@@ -1,0 +1,1 @@
+../../stacks/ts-lint-stack/.claude/commands/lint-interface.md

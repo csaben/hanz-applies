@@ -1,5 +1,8 @@
 Workspace for job application process
 
+
+See @stacks/ts-lint-stack/CLAUDE.md for additional stack instructions.
+
 on claude machine:
 user: claude
 password: password
