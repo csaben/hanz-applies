@@ -5,6 +5,7 @@
 | Date | Company | Position | Job ID/URL | Status | Notes |
 |------|---------|----------|------------|--------|-------|
 | 2025-09-05 | Henry Jackson Foundation | Clinical Research Coordinator I - Center for Deployment Psychology | 10320 | Under Consideration | Complete application submitted successfully |
+| 2025-09-06 | Deloitte Consulting LLP | Healthcare Quality Analyst | 308037 | Submitted | Complete application submitted successfully, NYC/DC locations |
 
 ## Follow-up Required
 

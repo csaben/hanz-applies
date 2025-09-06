@@ -59,3 +59,12 @@
 - **SSN Last 4 Digits:** (used for Epic Clinical Analyst application)
 - **How did you hear about us:** Company Website
 - **Nursing School Question:** "No, I am not currently enrolled in Nursing School. I have a Bachelor of Science in Public Health Science from University of Maryland, College Park (graduated 2023)."
+
+### Deloitte Application Data
+- **Account Created:** hannahpkim7@gmail.com / DeloitteHannah2025!
+- **How did you hear about this job:** Deloitte US Careers
+- **Location Preferences:** NYC (75%), Washington DC (25%)
+- **NYC Residency:** Not current resident, applying for NYC position
+- **Travel Willingness:** Up to 25%
+- **Security Clearance:** Eligible but not currently holding
+- **Salary Expectations:** $70,000 minimum
